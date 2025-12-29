@@ -1,5 +1,5 @@
 +# Hi, I'm Gideon Eromomene 👋
-![AWS Certified Solutions Architect – Associate]<img src="https://images.credly.com/size/340x340/images/1a66c77b-b6c5-4f8e-bb5a-9a6a0f88e02e.png" width="150"/>
+![AWS Certified Solutions Architect – Associate](<img src="https://images.credly.com/size/340x340/images/1a66c77b-b6c5-4f8e-bb5a-9a6a0f88e02e.png" width="150"/>)
 
 
 
