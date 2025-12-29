@@ -1,5 +1,8 @@
 +# Hi, I'm Gideon Eromomene 👋
-![AWS Certified Solutions Architect – Associate]https://www.credly.com/badges/41effee8-0290-4f43-a6d5-dd46d197aec8/public_url
+![AWS Certified Solutions Architect – Associate] <a href="YOUR_CREDLY_BADGE_LINK">
+  <img src="https://www.credly.com/badges/41effee8-0290-4f43-a6d5-dd46d197aec8/public_url" alt="AWS Certified Solutions Architect – Associate" width="150"/>
+</a>
+
 
 🚀 AWS Certified Solutions Architect | Cloud Engineer  
 ☁️ Building scalable, secure, and automated cloud infrastructure on AWS
