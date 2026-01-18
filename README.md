@@ -12,7 +12,7 @@
 ## 🧠 About Me
 - AWS Certified Solutions Architect – Associate
 - Hands-on experience with AWS services through real-world projects
-- Strong interest in Cloud Engineering, DevOps, and Infrastructure as Code
+- Cloud Engineering, DevOps, and Infrastructure as Code
 - Currently enhancing skills through hands-on project-based learning
 
 ---
